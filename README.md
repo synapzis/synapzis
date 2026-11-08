@@ -38,4 +38,7 @@
 <a href="https://github.com/synapzis/lynix"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/synapzis/lynix?style=flat-square&logo=github&logoColor=white&labelColor=000000">
 
 <!--a href="https://github.com/synapzis/lynix"><!img src="https://img.shields.io/badge/github.com%2Fsynapzis%2Flynix-000000?style=flat-square&logo=github&logoColor=white&labelColor=000000"/></a>
-<!a href="https://github.com/synapzis/lynix"><!img alt="GitHub watchers" src="https://img.shields.io/github/watchers/synapzis/lynix?style=flat-square&logo=github&logoColor=white&labelColor=000000">
+<!a href="https://github.com/synapzis/lynix"><!img alt="GitHub watchers" src="https://img.shields.io/github/watchers/synapzis/lynix?style=flat-square&logo=github&logoColor=white&labelColor=000000"-->
+
+<sup><span style="font-size:smaller">icon may failed to load, you may need to refresh a few time</span></sup>
+
